@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIMarcaAutos", "WebAPIMarcaAutos\WebAPIMarcaAutos.csproj", "{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitarios", "TestUnitarios\TestUnitarios.csproj", "{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

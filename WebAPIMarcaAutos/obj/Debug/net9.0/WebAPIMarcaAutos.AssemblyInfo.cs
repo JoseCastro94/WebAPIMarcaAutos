@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPIMarcaAutos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da7856070724335f08872e6e68113e6b35eb82c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e318ae2fee7ef9d919d4737c7b644f1e309a5c2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPIMarcaAutos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPIMarcaAutos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

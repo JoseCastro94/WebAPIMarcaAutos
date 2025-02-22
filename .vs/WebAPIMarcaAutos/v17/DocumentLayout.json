@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\services\\imarcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\services\\imarcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\config\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}|TestUnitarios\\TestUnitarios.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\testunitarios\\marcasautostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3699E7DD-2A94-4FE3-9A51-66F3B02BE95B}|TestUnitarios\\TestUnitarios.csproj|solutionrelative:testunitarios\\marcasautostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\models\\marcasautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\models\\marcasautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\services\\marcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\services\\marcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\services\\imarcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\services\\imarcasautosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\repositories\\marcasautosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\repositories\\imarcasautosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\repositories\\imarcasautosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|c:\\users\\computer\\desktop\\webapimarcaautos\\webapimarcaautos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD48AA9F-67F3-430C-87AB-55EC0B8AB441}|WebAPIMarcaAutos\\WebAPIMarcaAutos.csproj|solutionrelative:webapimarcaautos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +62,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Config\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Config\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Config\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPIMarcaAutos\\Config\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T04:55:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MarcasAutos.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Models\\MarcasAutos.cs",
+              "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Models\\MarcasAutos.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Models\\MarcasAutos.cs",
+              "RelativeToolTip": "WebAPIMarcaAutos\\Models\\MarcasAutos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T04:36:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIMarcaAutos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\appsettings.json",
+              "RelativeToolTip": "WebAPIMarcaAutos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T03:58:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcasAutosTests.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\TestUnitarios\\MarcasAutosTests.cs",
+              "RelativeDocumentMoniker": "TestUnitarios\\MarcasAutosTests.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\TestUnitarios\\MarcasAutosTests.cs",
+              "RelativeToolTip": "TestUnitarios\\MarcasAutosTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wCoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T03:36:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IMarcasAutosRepository.cs",
               "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Repositories\\IMarcasAutosRepository.cs",
               "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Repositories\\IMarcasAutosRepository.cs",
@@ -59,20 +127,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MarcasAutosService.cs",
               "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Services\\MarcasAutosService.cs",
               "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Services\\MarcasAutosService.cs",
               "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Services\\MarcasAutosService.cs",
               "RelativeToolTip": "WebAPIMarcaAutos\\Services\\MarcasAutosService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T01:33:03.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Program.cs",
+              "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Program.cs",
+              "RelativeToolTip": "WebAPIMarcaAutos\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:23:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MarcasAutosRepository.cs",
               "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Repositories\\MarcasAutosRepository.cs",
               "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Repositories\\MarcasAutosRepository.cs",
@@ -85,20 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MarcasAutosController.cs",
               "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Controllers\\MarcasAutosController.cs",
               "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Controllers\\MarcasAutosController.cs",
               "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Controllers\\MarcasAutosController.cs",
               "RelativeToolTip": "WebAPIMarcaAutos\\Controllers\\MarcasAutosController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T01:21:03.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "IMarcasAutosService.cs",
               "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Services\\IMarcasAutosService.cs",
               "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Services\\IMarcasAutosService.cs",
@@ -107,19 +188,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T01:34:43.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPIMarcaAutos\\Program.cs",
-              "ToolTip": "C:\\Users\\Computer\\Desktop\\WebAPIMarcaAutos\\WebAPIMarcaAutos\\Program.cs",
-              "RelativeToolTip": "WebAPIMarcaAutos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T01:23:30.898Z",
               "EditorCaption": ""
             }
           ]
